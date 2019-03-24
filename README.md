@@ -1,10 +1,9 @@
 # Discord PriceBot
 
-# Index
-- [Currently supported exchanges](#currently-supported-exchanges)
-- [Image examples](#image-examples)
+- [Список поддерживаемых бирж](#currently-supported-exchanges)
+- [Примеры изображений](#image-examples)
 
-# <a name = "currently-supported-exchanges"></a> Currently supported exchanges
+# <a name = "Список поддерживаемых бирж"></a> Список поддерживаемых бирж
 
 - CryptoBridge
 - Crex24
@@ -25,7 +24,7 @@
 - P2PB2B
 - CoinsBit
 
-# <a name = "image-examples"></a> Image examples
+# <a name = "Примеры изображений"></a> Примеры изображений
 
 <img src="https://i.imgur.com/rIm9HV0.png" /> 
 <img src="https://i.imgur.com/6O4lR9g.png" /> 
