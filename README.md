@@ -1,4 +1,4 @@
-# Discord PriceBot
+# Discord PriceBot - показывает цену монеты в дискорде на отдельно выделенном канале.
 
 - [Список поддерживаемых бирж](#currently-supported-exchanges)
 - [Примеры изображений](#image-examples)
